@@ -7,7 +7,7 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[https://www.instagram.com/]
+[![instahram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/your-instagram)
 
 <!---
 nabieusuma/nabieusuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
